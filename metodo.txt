@@ -1,0 +1,25 @@
+DESARROLLO DE MODELO
+•	Contexto
+•	Requerimientos de sistema
+•	Área de dominio (discutir el modelo de objetos y el modelo global del sistema)
+
+
+DESARROLLO DE LISTA DE RASGOS
+•	Modelo de objetos
+•	Requerimienos existentes (funcionalidad de sistema)
+•	Funcionalidades por área de dominio
+•	Diferentes actividades con un área especifican de dominio
+
+
+PLANEAR POR RASGOS
+
+•	Plan la lista ordenada dependiendo de la prioridad y se asignan a cada programador
+
+
+
+Diseñar por Rasgo:
+Proceso iterativo de produccion  de la lsita (Una iteración puede llevar desde unos pocos días a un máximo de dos semanas)
+		Este proceso iterativo incluye tareas como inspección del diseño, codificación, testing unitario, integración e inspección del código
+	
+
+Construir por Rasgo:
